@@ -1,4 +1,4 @@
-var data = [
+var s = [
   {
     "name": " 肖申克的救赎 The Shawshank Redemption",
     "score": "9.6",
